@@ -2,7 +2,7 @@
 
 #### Descrição
 
-##### Graduando no Bacharel em Sistemas de Informação pelo Instituto Federal de Alagoas, futuro desenvolvedor Back-End, formado como técnico em eletroeletrônica pelo Instituto Federal de Alagoas.
+##### Graduando no Bacharel em Sistemas de Informação pelo Instituto Federal de Alagoas, desenvolvedor Back-End, formado como técnico em eletroeletrônica pelo Instituto Federal de Alagoas.
 
 #### 🚀Tenho conhecimento em:
 
